@@ -1,0 +1,1 @@
+create database sttproject_spring;
